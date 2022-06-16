@@ -1,5 +1,16 @@
-﻿  LINK : 没有找到 E:\Desktop\FDMGcodeR\x64\Debug\FDMGcodeR.exe 或上一个增量链接没有生成它；正在执行完全链接
-  FDMGcodeR.vcxproj -> E:\Desktop\FDMGcodeR\x64\Debug\FDMGcodeR.exe
+﻿  CDialogRun.cpp
+e:\desktop\fdmgcoder\fdmgcoder\fdmgcoder\cdialogrun.h(42): warning C4305: “初始化”: 从“double”到“float”截断
+e:\desktop\fdmgcoder\fdmgcoder\fdmgcoder\cdialogrun.cpp(104): warning C4305: “=”: 从“double”到“float”截断
+e:\desktop\fdmgcoder\fdmgcoder\fdmgcoder\cdialogrun.cpp(114): warning C4305: “=”: 从“double”到“float”截断
+e:\desktop\fdmgcoder\fdmgcoder\fdmgcoder\cdialogrun.cpp(124): warning C4305: “=”: 从“double”到“float”截断
+e:\desktop\fdmgcoder\fdmgcoder\fdmgcoder\cdialogrun.cpp(134): warning C4305: “=”: 从“double”到“float”截断
+e:\desktop\fdmgcoder\fdmgcoder\fdmgcoder\cdialogrun.cpp(144): warning C4305: “=”: 从“double”到“float”截断
+e:\desktop\fdmgcoder\fdmgcoder\fdmgcoder\cdialogrun.cpp(284): warning C4305: “初始化”: 从“double”到“float”截断
+e:\desktop\fdmgcoder\fdmgcoder\fdmgcoder\cdialogrun.cpp(363): warning C4244: “=”: 从“double”转换到“float”，可能丢失数据
+e:\desktop\fdmgcoder\fdmgcoder\fdmgcoder\cdialogrun.cpp(410): warning C4244: “=”: 从“double”转换到“float”，可能丢失数据
+e:\desktop\fdmgcoder\fdmgcoder\fdmgcoder\cdialogrun.cpp(454): warning C4305: “=”: 从“double”到“float”截断
+  LINK : 没有找到 E:\Desktop\FDMGcodeR\FDMGcodeR\x64\Debug\FDMGcodeR.exe 或上一个增量链接没有生成它；正在执行完全链接
+  FDMGcodeR.vcxproj -> E:\Desktop\FDMGcodeR\FDMGcodeR\x64\Debug\FDMGcodeR.exe
   Microsoft (R) COFF/PE Editor Version 14.16.27045.0
   Copyright (C) Microsoft Corporation.  All rights reserved.
   

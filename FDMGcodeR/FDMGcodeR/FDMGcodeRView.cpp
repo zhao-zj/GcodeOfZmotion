@@ -131,9 +131,9 @@ void CFDMGcodeRView::OnFdmrconnect()
 		return;
 	}
 
-	SetWindowText("已链接");
+	MessageBox(_T("已链接"));
 	std::cout << "已链接" << std::endl;
-	SetTimer(1, 100, NULL);
+	//SetTimer(1, 100, NULL);
 }
 
 

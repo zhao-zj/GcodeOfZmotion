@@ -21,6 +21,14 @@
 #define IDC_BUTTON4                     1016
 #define IDC_BUTTON5                     1017
 #define IDC_RADIO6                      1018
+#define IDC_x                           1019
+#define IDC_y                           1020
+#define IDC_z                           1021
+#define IDC_b                           1022
+#define IDC_c                           1023
+#define IDC_e                           1024
+#define IDC_BUTTON6                     1025
+#define IDC_BUTTON7                     1026
 #define ID_FDMR_32771                   32771
 #define ID_FDMR_                        32772
 #define ID_FDMR_connect                 32773
@@ -33,7 +41,7 @@
 #ifndef APSTUDIO_READONLY_SYMBOLS
 #define _APS_NEXT_RESOURCE_VALUE        312
 #define _APS_NEXT_COMMAND_VALUE         32776
-#define _APS_NEXT_CONTROL_VALUE         1019
+#define _APS_NEXT_CONTROL_VALUE         1027
 #define _APS_NEXT_SYMED_VALUE           310
 #endif
 #endif

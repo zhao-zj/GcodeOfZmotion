@@ -39,7 +39,7 @@ public:
 	BOOL m_bLogic;
 	BOOL m_mode;
 	float m_step;
-	float m_units = 10;
+	float m_units = 85.333;
 	float m_lspeed = 0;
 	float m_speed = 100;
 	float m_acc = 300;
@@ -59,5 +59,9 @@ public:
 	std::vector<std::string>Vec_G;
 	float endCoordinate[6];
 	int ax[6] = { 0,1,2,3,4,5 };
+	float Eval = 0.0;
 	afx_msg void OnBnClickedRadio6();
+	afx_msg void OnTimer(UINT_PTR nIDEvent);
+	afx_msg void OnBnClickedButton6();
+	afx_msg void OnBnClickedButton7();
 };
